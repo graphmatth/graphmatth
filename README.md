@@ -1,6 +1,6 @@
 # Hi there 👋,
 
-I am front-end developer at [Redpill](https://redpill.paris/).
+I am front-end developer at [Synapse Medicine](https://synapse-medicine.com/).
 
 
 
