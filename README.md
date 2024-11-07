@@ -1,6 +1,6 @@
 # Hi there 👋,
 
-I am front-end developer at [Synapse Medicine](https://synapse-medicine.com/).
+I am front-end developer passionate about creating efficient applications, websites, and design systems.
 
 
 
