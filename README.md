@@ -1,24 +1,20 @@
-# Hi there 👋,
+### Hi there! 👋  
 
-I am front-end developer passionate about creating efficient applications, websites, and design systems.
+I'm **Matthieu**, a **Frontend Developer** with 5+ years of experience in building intuitive and high-performance web applications. Passionate about UI/UX, design systems, and seamless user experiences, I enjoy crafting well-structured and maintainable code.
 
+💻 **Tech Stack:**  
+- **Frontend:** React, TypeScript, Next JS, React Query
+- **Styling:** TailwindCSS, Panda CSS, (S)CSS Modules, Emotion
+- **Tooling & Other:** Git, Agile, Headless CMS
 
+🚀 **What I Do:**  
+- Build scalable and responsive web applications  
+- Design and maintain Design System for consistency and efficiency  
+- Collaborate with product, design, and dev teams to create great user experiences  
+- Optimize performance and SEO for web projects
 
-<!--
-**matthieucaron64/matthieucaron64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 **Let's Connect:**  
+- [LinkedIn](https://www.linkedin.com/in/matthieu-caron/)
+- [Portfolio](https://matthieucaron.fr/)
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/matthieucaron64)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/matthieucaron_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](http://matthieucaron.fr/)  
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my repositories and feel free to reach out!  
